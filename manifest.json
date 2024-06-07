@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Download Bookmarks",
+    "version": "1.0",
+    "permissions": [
+      "bookmarks",
+      "downloads"
+    ],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
+  
