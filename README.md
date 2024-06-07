@@ -1,4 +1,4 @@
-This is a simple Bookmarmk downloader extenstion from chrome.
+This is a simple Bookmark downloader extenstion for chrome.
 
 How to install >>
 
